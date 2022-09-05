@@ -4,3 +4,4 @@ this list all ndirectories and subdirectories
 this list all ndirectories and subdirectories
 newest files command
 unique command
+find that word command
