@@ -5,3 +5,4 @@ this list all ndirectories and subdirectories
 newest files command
 unique command
 find that word command
+count that word command
