@@ -7,3 +7,4 @@ unique command
 find that word command
 count that word command
 what next command
+hide this word command
