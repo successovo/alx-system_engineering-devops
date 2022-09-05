@@ -11,3 +11,4 @@ hide this word command
 letter only command
 selected numbers command
 my hiago command
+my reverse command
