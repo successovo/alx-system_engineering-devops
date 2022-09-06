@@ -1,1 +1,1 @@
-this my first alias script
+my first alias script
